@@ -65,8 +65,18 @@
 			<archetypeName>
 				<xsl:value-of select="$objects//object[@hash = $hash]/@name"/>
 			</archetypeName>
+			<flags value="1572865"/>
 			<position x="{@Position_x}" y="{@Position_y}" z="{@Position_z}"/>
 			<rotation w="{$q/w}" x="{$q/x}" y="{$q/y}" z="{$q/z}"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
 		</Item>
 	</xsl:template>
 </xsl:transform>
