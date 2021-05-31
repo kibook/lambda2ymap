@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
-<xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:exsl="http://exslt.org/common" xmlns:math="http://exslt.org/math">
+<xsl:transform
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:exsl="http://exslt.org/common"
+	xmlns:math="http://exslt.org/math"
+	version="1.0"
+	exclude-result-prefixes="exsl math">
 	<xsl:variable name="pi" select="3.1415926535898"/>
 	<xsl:variable name="objects" select="document('objects.xml')"/>
 	<xsl:output indent="yes"/>
