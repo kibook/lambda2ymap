@@ -2,14 +2,6 @@
 
 Convert [Lambdarevolution map editor](https://allmods.net/red-dead-redemption-2/tools-red-dead-redemption-2/rdr2-map-editor-v0-10/) maps to ymap.
 
-## Examples
-
-| | | | |
-|-|-|-|-|
-| Fisherman's Bay | [source](https://www.nexusmods.com/reddeadredemption2/mods/436) | [screenshot](examples/fishermans_bay/screenshot.jpg) | [resource](examples/fishermans_bay) |
-| Gladiator Arena | [source](https://www.nexusmods.com/reddeadredemption2/mods/243) | [screenshot](examples/gladiator/screenshot.jpg) | [resource](examples/gladiator) |
-| Guarma Stilt House | [source](https://www.nexusmods.com/reddeadredemption2/mods/253) | [screenshot](examples/guarma_stilt_house/screenshot.jpg) | [resource](examples/guarma_stilt_house) |
-
 ## Requirements
 
 - An XSLT processor with EXSLT support, such as [libxslt's xsltproc](http://www.xmlsoft.org/)
@@ -37,3 +29,9 @@ Convert [Lambdarevolution map editor](https://allmods.net/red-dead-redemption-2/
    ```
 
 6. Add `start guarma_stilt_house` to `server.cfg`.
+
+## Examples
+
+| | | |
+|-|-|-|
+| [![](examples/fishermans_bay/screenshot.jpg)](examples/fishermans_bay) | [![](examples/gladiator/screenshot.jpg)](examples/gladiator) | [![](examples/guarma_stilt_house/screenshot.jpg)](examples/guarma_stilt_house) |
