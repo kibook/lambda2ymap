@@ -16,6 +16,7 @@ Convert [Lambdarevolution map editor](https://allmods.net/red-dead-redemption-2/
    ```
    $ xsltproc lambda2ymap.xsl Guarma_Stilt_House_Complete.xml > guarma_stilt_house.ymap
    ```
+   Alternatively, convert the map using [this website](https://redm.khzae.net/lambda2ymap) without installing anything.
 
 3. Create a new resource folder.
    
