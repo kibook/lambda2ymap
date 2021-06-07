@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
 <xsl:transform
+	version="1.0"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:exsl="http://exslt.org/common"
 	xmlns:math="http://exslt.org/math"
-	version="1.0"
-	exclude-result-prefixes="exsl math">
+	xmlns:func="http://exslt.org/functions"
+	extension-element-prefixes="exsl math func">
 	<xsl:variable name="pi" select="3.1415926535898"/>
 	<xsl:variable name="objects" select="document('objects.xml')"/>
 	<xsl:output indent="yes"/>
@@ -33,34 +34,34 @@
 			</entities>
 		</CMapData>
 	</xsl:template>
-	<xsl:template name="to-quaternion">
-		<xsl:param name="pitch"/>
-		<xsl:param name="roll"/>
-		<xsl:param name="yaw"/>
-		<xsl:variable name="p" select="$pitch * -1 * ($pi div 180.0)"/>
-		<xsl:variable name="r" select="$yaw   * -1 * ($pi div 180.0)"/>
-		<xsl:variable name="y" select="$roll  * -1 * ($pi div 180.0)"/>
-		<xsl:variable name="cy" select="math:cos($y * 0.5)"/>
-		<xsl:variable name="sy" select="math:sin($y * 0.5)"/>
-		<xsl:variable name="cr" select="math:cos($r * 0.5)"/>
-		<xsl:variable name="sr" select="math:sin($r * 0.5)"/>
-		<xsl:variable name="cp" select="math:cos($p * 0.5)"/>
-		<xsl:variable name="sp" select="math:sin($p * 0.5)"/>
-		<x><xsl:value-of select="$cy * $sp * $cr + $sy * $cp * $sr"/></x>
-		<y><xsl:value-of select="$sy * $cp * $cr - $cy * $sp * $sr"/></y>
-		<z><xsl:value-of select="$cy * $cp * $sr - $sy * $sp * $cr"/></z>
-		<w><xsl:value-of select="$cy * $cp * $cr + $sy * $sp * $sr"/></w>
-	</xsl:template>
-	<xsl:template match="Object">
-		<xsl:variable name="quat">
-			<xsl:call-template name="to-quaternion">
-				<xsl:with-param name="pitch" select="@Rotation_x"/>
-				<xsl:with-param name="roll"  select="@Rotation_y"/>
-				<xsl:with-param name="yaw"   select="@Rotation_z"/>
-			</xsl:call-template>
+	<func:function name="func:to-quaternion">
+		<!-- ZYX Euler angles in degrees -->
+		<xsl:param name="x"/>
+		<xsl:param name="y"/>
+		<xsl:param name="z"/>
+		<!-- Convert degree values to radians -->
+		<xsl:variable name="rx" select="-$x * ($pi div 180.0)"/>
+		<xsl:variable name="ry" select="-$y * ($pi div 180.0)"/>
+		<xsl:variable name="rz" select="-$z * ($pi div 180.0)"/>
+		<!-- Calculate cos and sin of half x, y and z -->
+		<xsl:variable name="cx" select="math:cos($rx * 0.5)"/>
+		<xsl:variable name="sx" select="math:sin($rx * 0.5)"/>
+		<xsl:variable name="cy" select="math:cos($ry * 0.5)"/>
+		<xsl:variable name="sy" select="math:sin($ry * 0.5)"/>
+		<xsl:variable name="cz" select="math:cos($rz * 0.5)"/>
+		<xsl:variable name="sz" select="math:sin($rz * 0.5)"/>
+		<!-- Calculate w, x, y and z of the quaternion -->
+		<xsl:variable name="q">
+			<x><xsl:value-of select="format-number($sx * $cy * $cz + $cx * $sy * $sz, '#.#####')"/></x>
+			<y><xsl:value-of select="format-number($cx * $sy * $cz - $sx * $cy * $sz, '#.#####')"/></y>
+			<z><xsl:value-of select="format-number($cx * $cy * $sz + $sx * $sy * $cz, '#.#####')"/></z>
+			<w><xsl:value-of select="format-number($cx * $cy * $cz - $sx * $sy * $sz, '#.#####')"/></w>
 		</xsl:variable>
-		<xsl:variable name="q" select="exsl:node-set($quat)"/>
+		<func:result select="exsl:node-set($q)"/>
+	</func:function>
+	<xsl:template match="Object">
 		<xsl:variable name="hash" select="@Hash"/>
+		<xsl:variable name="q" select="func:to-quaternion(@Rotation_x, @Rotation_y, @Rotation_z)"/>
 		<Item type="CEntityDef">
 			<archetypeName>
 				<xsl:value-of select="$objects//object[@hash = $hash]/@name"/>

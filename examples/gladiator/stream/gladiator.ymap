@@ -26,7 +26,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1218.7627" y="722.49683" z="100.4814"/>
-      <rotation w="0.70091111913422" x="0" y="0" z="-0.713248626408782"/>
+      <rotation w="0.70091" x="0" y="0" z="-0.71325"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -41,7 +41,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1217.5367" y="728.09192" z="100.2058"/>
-      <rotation w="0.537302552335071" x="0" y="0" z="-0.843389570278302"/>
+      <rotation w="0.5373" x="0" y="0" z="-0.84339"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -56,7 +56,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1214.4838" y="733.02063" z="100.5545"/>
-      <rotation w="0.438375068513754" x="0" y="0" z="-0.898792133535648"/>
+      <rotation w="0.43838" x="0" y="0" z="-0.89879"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -71,7 +71,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1210.0979" y="736.76379" z="101.1606"/>
-      <rotation w="0.258824945602788" x="0" y="0" z="-0.965924245235471"/>
+      <rotation w="0.25882" x="0" y="0" z="-0.96592"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -86,7 +86,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1204.6309" y="738.45837" z="101.2988"/>
-      <rotation w="0.0436281928874689" x="0" y="0" z="-0.999047837085579"/>
+      <rotation w="0.04363" x="0" y="0" z="-0.99905"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -101,7 +101,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1199.0981" y="737.29749" z="100.8961"/>
-      <rotation w="0.250374089972378" x="0" y="0" z="0.968149169844453"/>
+      <rotation w="0.25037" x="0" y="0" z="0.96815"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -116,7 +116,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1194.014" y="734.4624" z="100.305"/>
-      <rotation w="0.250375779711063" x="0" y="0" z="0.968148732857755"/>
+      <rotation w="0.25038" x="0" y="0" z="0.96815"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -131,7 +131,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1188.9338" y="731.58612" z="99.820702"/>
-      <rotation w="0.258813144592589" x="0" y="0" z="0.965927407306623"/>
+      <rotation w="0.25881" x="0" y="0" z="0.96593"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -146,7 +146,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1186.1373" y="727.26019" z="99.463303"/>
-      <rotation w="0.688350131960786" x="0" y="0" z="0.72537858793155"/>
+      <rotation w="0.68835" x="0" y="0" z="0.72538"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -161,7 +161,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1185.9155" y="721.38373" z="99.694603"/>
-      <rotation w="0.700903046213134" x="0" y="0" z="0.713256559597701"/>
+      <rotation w="0.7009" x="0" y="0" z="0.71326"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -176,7 +176,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1186.8191" y="715.74078" z="99.752899"/>
-      <rotation w="0.81915055267742" x="0" y="0" z="0.573578566587245"/>
+      <rotation w="0.81915" x="0" y="0" z="0.57358"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -191,7 +191,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1188.8948" y="710.27338" z="99.852303"/>
-      <rotation w="0.829036118348397" x="0" y="0" z="0.559195059414711"/>
+      <rotation w="0.82904" x="0" y="0" z="0.5592"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -206,7 +206,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1217.7426" y="716.76752" z="100.9265"/>
-      <rotation w="0.819153535895023" x="0" y="0" z="-0.573574306110971"/>
+      <rotation w="0.81915" x="0" y="0" z="-0.57357"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -221,7 +221,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1215.6064" y="711.28558" z="101.217"/>
-      <rotation w="0.83388629890618" x="0" y="0" z="-0.551936264886221"/>
+      <rotation w="0.83389" x="0" y="0" z="-0.55194"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -236,7 +236,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1212.4918" y="706.43347" z="101.1945"/>
-      <rotation w="0.913545809037493" x="0" y="0" z="-0.406735853829032"/>
+      <rotation w="0.91355" x="0" y="0" z="-0.40674"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -251,7 +251,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1207.6123" y="703.73059" z="100.9993"/>
-      <rotation w="0.995396198367179" x="0" y="0" z="-0.0958457525202242"/>
+      <rotation w="0.9954" x="0" y="0" z="-0.09585"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -266,7 +266,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1192.6261" y="706.38953" z="100.1213"/>
-      <rotation w="0.98162701860016" x="0" y="0" z="0.19080984344148"/>
+      <rotation w="0.98163" x="0" y="0" z="0.19081"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -281,7 +281,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1192.5543" y="706.30902" z="102.0673"/>
-      <rotation w="0.983254750123396" x="0" y="0" z="0.182236374963338"/>
+      <rotation w="0.98325" x="0" y="0" z="0.18224"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -296,7 +296,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1207.6224" y="703.62952" z="102.9265"/>
-      <rotation w="0.996194698091746" x="0" y="0" z="-0.0871557427476584"/>
+      <rotation w="0.99619" x="0" y="0" z="-0.08716"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -311,7 +311,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1212.5297" y="706.32458" z="102.9612"/>
-      <rotation w="0.913545809037493" x="0" y="0" z="-0.406735853829032"/>
+      <rotation w="0.91355" x="0" y="0" z="-0.40674"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -326,7 +326,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1188.8512" y="710.10992" z="102.0847"/>
-      <rotation w="0.824124715656821" x="0" y="0" z="0.56640838009652"/>
+      <rotation w="0.82412" x="0" y="0" z="0.56641"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -341,7 +341,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1186.7853" y="715.53638" z="102.1095"/>
-      <rotation w="0.819150057140806" x="0" y="0" z="0.573579274282304"/>
+      <rotation w="0.81915" x="0" y="0" z="0.57358"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -356,7 +356,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1185.8115" y="721.27197" z="102.1464"/>
-      <rotation w="0.700904894839073" x="0" y="0" z="0.71325474298502"/>
+      <rotation w="0.7009" x="0" y="0" z="0.71325"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -371,7 +371,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1186.016" y="726.90082" z="102.1152"/>
-      <rotation w="0.688350131960786" x="0" y="0" z="0.72537858793155"/>
+      <rotation w="0.68835" x="0" y="0" z="0.72538"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -386,7 +386,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1188.8486" y="731.65479" z="102.1207"/>
-      <rotation w="0.250373329589721" x="0" y="0" z="0.968149366487505"/>
+      <rotation w="0.25037" x="0" y="0" z="0.96815"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -401,7 +401,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1194.0415" y="734.59351" z="102.1456"/>
-      <rotation w="0.241915206326135" x="0" y="0" z="0.970297394074715"/>
+      <rotation w="0.24192" x="0" y="0" z="0.9703"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -416,7 +416,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1199.1637" y="737.44879" z="102.1789"/>
-      <rotation w="0.233438660282975" x="0" y="0" z="0.972371529758708"/>
+      <rotation w="0.23344" x="0" y="0" z="0.97237"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -431,7 +431,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1204.7898" y="738.5448" z="102.1977"/>
-      <rotation w="0.0523455423958932" x="0" y="0" z="-0.998629032319449"/>
+      <rotation w="0.05235" x="0" y="0" z="-0.99863"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -446,7 +446,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1210.1777" y="736.83337" z="102.1956"/>
-      <rotation w="0.250385918127157" x="0" y="0" z="-0.968146110875637"/>
+      <rotation w="0.25039" x="0" y="0" z="-0.96815"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -461,7 +461,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1214.5573" y="733.09058" z="102.1553"/>
-      <rotation w="0.438375068513754" x="0" y="0" z="-0.898792133535648"/>
+      <rotation w="0.43838" x="0" y="0" z="-0.89879"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -476,7 +476,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1217.5645" y="728.27222" z="102.1802"/>
-      <rotation w="0.53730328833111" x="0" y="0" z="-0.84338910139305"/>
+      <rotation w="0.5373" x="0" y="0" z="-0.84339"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -491,7 +491,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1215.6725" y="711.18201" z="102.9299"/>
-      <rotation w="0.843392374198702" x="0" y="0" z="-0.537298151070219"/>
+      <rotation w="0.84339" x="0" y="0" z="-0.5373"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -506,7 +506,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1217.7847" y="716.58539" z="102.9202"/>
-      <rotation w="0.81411652173778" x="0" y="0" z="-0.580701549019442"/>
+      <rotation w="0.81412" x="0" y="0" z="-0.5807"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -521,7 +521,7 @@
       <archetypeName>p_fencetall_05a</archetypeName>
       <flags value="1572865"/>
       <position x="1218.8684" y="722.28888" z="102.751"/>
-      <rotation w="0.719341606823503" x="0" y="0" z="-0.694656499784304"/>
+      <rotation w="0.71934" x="0" y="0" z="-0.69466"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -536,7 +536,7 @@
       <archetypeName>p_fencetall_05c</archetypeName>
       <flags value="1572865"/>
       <position x="1218.8345" y="724.21722" z="102.6159"/>
-      <rotation w="0.707108620044038" x="0" y="0" z="-0.707104942324275"/>
+      <rotation w="0.70711" x="0" y="0" z="-0.7071"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -551,7 +551,7 @@
       <archetypeName>p_fencetall_05c</archetypeName>
       <flags value="1572865"/>
       <position x="1186.0063" y="728.59338" z="102.1235"/>
-      <rotation w="0.649441419147421" x="0" y="0" z="0.760411627407014"/>
+      <rotation w="0.64944" x="0" y="0" z="0.76041"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -566,7 +566,7 @@
       <archetypeName>p_door_warehougate_r</archetypeName>
       <flags value="1572865"/>
       <position x="1195.3236" y="705.20343" z="100.3643"/>
-      <rotation w="0.917057287089321" x="0" y="0" z="0.398755479205459"/>
+      <rotation w="0.91706" x="0" y="0" z="0.39876"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -581,7 +581,7 @@
       <archetypeName>p_door_warehougate_r</archetypeName>
       <flags value="1572865"/>
       <position x="1200.8212" y="703.89978" z="100.3072"/>
-      <rotation w="0.636073506679545" x="0" y="0" z="0.77162846895406"/>
+      <rotation w="0.63607" x="0" y="0" z="0.77163"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -596,7 +596,7 @@
       <archetypeName>p_fencetall_05b</archetypeName>
       <flags value="1572865"/>
       <position x="1196.1543" y="707.27722" z="100.3548"/>
-      <rotation w="0.551930435971102" x="0" y="0" z="0.833890156944396"/>
+      <rotation w="0.55193" x="0" y="0" z="0.83389"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -611,7 +611,7 @@
       <archetypeName>p_fencetall_05b</archetypeName>
       <flags value="1572865"/>
       <position x="1196.0469" y="707.29749" z="102.171"/>
-      <rotation w="0.544630984330419" x="0" y="0" z="0.838675796066202"/>
+      <rotation w="0.54463" x="0" y="0" z="0.83868"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -626,7 +626,7 @@
       <archetypeName>p_fencetall_05b</archetypeName>
       <flags value="1572865"/>
       <position x="1203.1362" y="703.43378" z="100.7629"/>
-      <rotation w="0.998134798421867" x="0" y="0" z="0.061048539534857"/>
+      <rotation w="0.99813" x="0" y="0" z="0.06105"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -641,7 +641,7 @@
       <archetypeName>p_fencetall_05b</archetypeName>
       <flags value="1572865"/>
       <position x="1203.0593" y="703.33478" z="103.0162"/>
-      <rotation w="0.999390827019096" x="0" y="0" z="0.034899496702501"/>
+      <rotation w="0.99939" x="0" y="0" z="0.0349"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -656,7 +656,7 @@
       <archetypeName>p_fencetall_05b</archetypeName>
       <flags value="1572865"/>
       <position x="1201.8093" y="705.56268" z="100.6899"/>
-      <rotation w="0.551909332307544" x="0" y="0" z="0.833904124532216"/>
+      <rotation w="0.55191" x="0" y="0" z="0.8339"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -671,7 +671,7 @@
       <archetypeName>p_fencetall_05b</archetypeName>
       <flags value="1572865"/>
       <position x="1201.8505" y="705.6001" z="103.0546"/>
-      <rotation w="0.55192970826445" x="0" y="0" z="0.833890638594246"/>
+      <rotation w="0.55193" x="0" y="0" z="0.83389"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -686,7 +686,7 @@
       <archetypeName>p_door_traingate_l</archetypeName>
       <flags value="1572865"/>
       <position x="1197.1534" y="709.38159" z="100.4876"/>
-      <rotation w="0.994521986586187" x="0" y="0" z="-0.104527595383536"/>
+      <rotation w="0.99452" x="0" y="0" z="-0.10453"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -701,7 +701,7 @@
       <archetypeName>p_fencetall_05c</archetypeName>
       <flags value="1572865"/>
       <position x="1201.3473" y="708.19519" z="100.6671"/>
-      <rotation w="0.979924704620829" x="0" y="0" z="0.199367934417198"/>
+      <rotation w="0.97992" x="0" y="0" z="0.19937"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -716,7 +716,7 @@
       <archetypeName>p_fencetall_05c</archetypeName>
       <flags value="1572865"/>
       <position x="1201.3853" y="708.21381" z="102.481"/>
-      <rotation w="0.978147421110634" x="0" y="0" z="0.207912535876544"/>
+      <rotation w="0.97815" x="0" y="0" z="0.20791"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -731,7 +731,7 @@
       <archetypeName>p_doorfortwallacer01x</archetypeName>
       <flags value="1572865"/>
       <position x="1199.804" y="708.78137" z="100.5733"/>
-      <rotation w="0.199358527806124" x="0" y="0" z="0.979926618370465"/>
+      <rotation w="0.19936" x="0" y="0" z="0.97993"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -746,7 +746,7 @@
       <archetypeName>p_doorfortwallacer01x</archetypeName>
       <flags value="1572865"/>
       <position x="1197.9655" y="707.73938" z="100.4636"/>
-      <rotation w="0.477177932961223" x="0" y="0" z="-0.878806702463548"/>
+      <rotation w="0.47718" x="0" y="0" z="-0.87881"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -761,7 +761,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1218.8783" y="722.97791" z="106.0388"/>
-      <rotation w="0.999999999999619" x="0" y="0" z="8.72664599817117e-07"/>
+      <rotation w="1" x="0" y="0" z="0"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -776,7 +776,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1217.3898" y="728.67542" z="105.468"/>
-      <rotation w="0.976296007119933" x="0" y="0" z="-0.216439613938103"/>
+      <rotation w="0.9763" x="0" y="0" z="-0.21644"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -791,7 +791,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1213.6555" y="734.22412" z="105.443"/>
-      <rotation w="0.927184178203305" x="0" y="0" z="-0.374605792386427"/>
+      <rotation w="0.92718" x="0" y="0" z="-0.37461"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -806,7 +806,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1208.2554" y="737.89313" z="105.4833"/>
-      <rotation w="0.824127661581635" x="0" y="0" z="-0.566404093749318"/>
+      <rotation w="0.82413" x="0" y="0" z="-0.5664"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -821,7 +821,7 @@
       <archetypeName>p_woodramp01x_sea</archetypeName>
       <flags value="1572865"/>
       <position x="1203.8574" y="738.74658" z="105.4503"/>
-      <rotation w="0.622516685498848" x="0" y="0" z="-0.782606527110225"/>
+      <rotation w="0.62252" x="0" y="0" z="-0.78261"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -836,7 +836,7 @@
       <archetypeName>p_woodramp01x_sea</archetypeName>
       <flags value="1572865"/>
       <position x="1202.0522" y="738.31689" z="105.5003"/>
-      <rotation w="0.629323103797161" x="0" y="0" z="-0.777143764709663"/>
+      <rotation w="0.62932" x="0" y="0" z="-0.77714"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -851,7 +851,7 @@
       <archetypeName>s_serramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1194.8877" y="735.15588" z="105.4333"/>
-      <rotation w="0.861627827277118" x="0" y="0" z="0.507540626217954"/>
+      <rotation w="0.86163" x="0" y="0" z="0.50754"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -971,7 +971,7 @@
       <archetypeName>s_armoredcarladders01x</archetypeName>
       <flags value="1572865"/>
       <position x="1203.802" y="743.79248" z="100.5199"/>
-      <rotation w="0.507541370610766" x="0" y="0" z="-0.861627388793175"/>
+      <rotation w="0.50754" x="0" y="0" z="-0.86163"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -986,7 +986,7 @@
       <archetypeName>p_woodramp01x_sea</archetypeName>
       <flags value="1572865"/>
       <position x="1200.3143" y="738.48468" z="105.5105"/>
-      <rotation w="0.777147048843384" x="0" y="0" z="-0.629319048237075"/>
+      <rotation w="0.77715" x="0" y="0" z="-0.62932"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1001,7 +1001,7 @@
       <archetypeName>p_woodramp01x_sea</archetypeName>
       <flags value="1572865"/>
       <position x="1197.6431" y="738.00842" z="105.5123"/>
-      <rotation w="0.515041815003059" x="0" y="0" z="-0.857165053416409"/>
+      <rotation w="0.51504" x="0" y="0" z="-0.85717"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1016,7 +1016,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1212.7042" y="706.54938" z="106.2161"/>
-      <rotation w="0.930417251347348" x="0" y="0" z="0.366502030547235"/>
+      <rotation w="0.93042" x="0" y="0" z="0.3665"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1031,7 +1031,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1207.2811" y="703.54108" z="106.2143"/>
-      <rotation w="0.771622379703728" x="0" y="0" z="0.636080893550777"/>
+      <rotation w="0.77162" x="0" y="0" z="0.63608"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1046,7 +1046,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1216.2338" y="712.2337" z="106.2175"/>
-      <rotation w="0.976295820129166" x="0" y="0" z="0.216440457397223"/>
+      <rotation w="0.9763" x="0" y="0" z="0.21644"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1061,7 +1061,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1217.9597" y="717.15778" z="106.1258"/>
-      <rotation w="0.992546151641322" x="0" y="0" z="0.121869343405148"/>
+      <rotation w="0.99255" x="0" y="0" z="0.12187"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1076,7 +1076,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1192.1758" y="706.4765" z="105.3203"/>
-      <rotation w="0.838671038479458" x="0" y="0" z="-0.544638310455469"/>
+      <rotation w="0.83867" x="0" y="0" z="-0.54464"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1091,7 +1091,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1188.7037" y="710.552" z="105.3363"/>
-      <rotation w="0.978147600733806" x="0" y="0" z="-0.20791169081776"/>
+      <rotation w="0.97815" x="0" y="0" z="-0.20791"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1106,7 +1106,7 @@
       <archetypeName>p_boatramp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1186.3689" y="716.74121" z="105.3557"/>
-      <rotation w="0.987688340595138" x="0" y="0" z="-0.156434465040231"/>
+      <rotation w="0.98769" x="0" y="0" z="-0.15643"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1136,7 +1136,7 @@
       <archetypeName>p_woodramp01x_sea</archetypeName>
       <flags value="1572865"/>
       <position x="1186.0491" y="727.84119" z="105.403"/>
-      <rotation w="0.999847695156391" x="0" y="0" z="0.0174524064372835"/>
+      <rotation w="0.99985" x="0" y="0" z="0.01745"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1151,7 +1151,7 @@
       <archetypeName>p_woodramp01x_sea</archetypeName>
       <flags value="1572865"/>
       <position x="1187.2145" y="730.74792" z="105.4083"/>
-      <rotation w="0.492427357741917" x="0" y="0" z="-0.870353547328506"/>
+      <rotation w="0.49243" x="0" y="0" z="-0.87035"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1166,7 +1166,7 @@
       <archetypeName>p_theaterchair01b01x</archetypeName>
       <flags value="1572865"/>
       <position x="1196.5724" y="733.01331" z="105.0323"/>
-      <rotation w="0.965926049892311" x="0" y="0" z="-0.258818210602418"/>
+      <rotation w="0.96593" x="0" y="0" z="-0.25882"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1181,7 +1181,7 @@
       <archetypeName>p_chaircomfy11x</archetypeName>
       <flags value="1572865"/>
       <position x="1198.0629" y="733.84009" z="105.0123"/>
-      <rotation w="0.96126193407154" x="0" y="0" z="-0.275636525346409"/>
+      <rotation w="0.96126" x="0" y="0" z="-0.27564"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1196,7 +1196,7 @@
       <archetypeName>p_chaircomfy11x</archetypeName>
       <flags value="1572865"/>
       <position x="1199.0724" y="734.42493" z="105.0123"/>
-      <rotation w="0.972369920397676" x="0" y="0" z="-0.233445363855906"/>
+      <rotation w="0.97237" x="0" y="0" z="-0.23345"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1211,7 +1211,7 @@
       <archetypeName>p_chaircomfy11x</archetypeName>
       <flags value="1572865"/>
       <position x="1200.1792" y="735.03308" z="105.0123"/>
-      <rotation w="0.961261695938319" x="0" y="0" z="-0.275637355817"/>
+      <rotation w="0.96126" x="0" y="0" z="-0.27564"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1226,7 +1226,7 @@
       <archetypeName>p_chaircomfy11x</archetypeName>
       <flags value="1572865"/>
       <position x="1195.1713" y="732.15918" z="105.0123"/>
-      <rotation w="0.963630453208623" x="0" y="0" z="-0.267238376078257"/>
+      <rotation w="0.96363" x="0" y="0" z="-0.26724"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1241,7 +1241,7 @@
       <archetypeName>p_chaircomfy11x</archetypeName>
       <flags value="1572865"/>
       <position x="1194.1708" y="731.61938" z="105.0123"/>
-      <rotation w="0.978147600733806" x="0" y="0" z="-0.20791169081776"/>
+      <rotation w="0.97815" x="0" y="0" z="-0.20791"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1256,7 +1256,7 @@
       <archetypeName>p_chaircomfy11x</archetypeName>
       <flags value="1572865"/>
       <position x="1193.1504" y="731.0459" z="105.0123"/>
-      <rotation w="0.968147640378108" x="0" y="0" z="-0.250380004054442"/>
+      <rotation w="0.96815" x="0" y="0" z="-0.25038"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1271,7 +1271,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1206.8928" y="738.84979" z="105.5861"/>
-      <rotation w="0.98162701860016" x="0" y="0" z="0.19080984344148"/>
+      <rotation w="0.98163" x="0" y="0" z="0.19081"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1286,7 +1286,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1210.0479" y="737.65161" z="105.5643"/>
-      <rotation w="0.983254750123396" x="0" y="0" z="0.182236374963338"/>
+      <rotation w="0.98325" x="0" y="0" z="0.18224"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1301,7 +1301,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1212.6053" y="735.50952" z="105.5448"/>
-      <rotation w="0.917059385394825" x="0" y="0" z="0.398750653490708"/>
+      <rotation w="0.91706" x="0" y="0" z="0.39875"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1316,7 +1316,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1215.1498" y="733.23212" z="105.5237"/>
-      <rotation w="0.920504178316142" x="0" y="0" z="0.390732719006898"/>
+      <rotation w="0.9205" x="0" y="0" z="0.39073"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1331,7 +1331,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1217.0934" y="730.31879" z="105.5708"/>
-      <rotation w="0.843390048540595" x="0" y="0" z="0.537301801618692"/>
+      <rotation w="0.84339" x="0" y="0" z="0.5373"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1346,7 +1346,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1218.4047" y="727.52081" z="105.5593"/>
-      <rotation w="0.838669151586672" x="0" y="0" z="0.544641216010036"/>
+      <rotation w="0.83867" x="0" y="0" z="0.54464"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1361,7 +1361,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1219.2898" y="724.59412" z="106.1416"/>
-      <rotation w="0.707102449362413" x="0" y="0" z="0.707111112984145"/>
+      <rotation w="0.7071" x="0" y="0" z="0.70711"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1376,7 +1376,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1219.2532" y="721.21527" z="106.12"/>
-      <rotation w="0.707102449362413" x="0" y="0" z="0.707111112984145"/>
+      <rotation w="0.7071" x="0" y="0" z="0.70711"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1391,7 +1391,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1218.7599" y="718.62622" z="106.2285"/>
-      <rotation w="0.608755198007379" x="0" y="0" z="0.79335812146785"/>
+      <rotation w="0.60876" x="0" y="0" z="0.79336"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1406,7 +1406,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1217.8547" y="715.40228" z="106.2055"/>
-      <rotation w="0.601809447609711" x="0" y="0" z="0.798639711489289"/>
+      <rotation w="0.60181" x="0" y="0" z="0.79864"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1421,7 +1421,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1216.5653" y="711.99652" z="106.2984"/>
-      <rotation w="0.544631716212912" x="0" y="0" z="0.838675320785689"/>
+      <rotation w="0.54463" x="0" y="0" z="0.83868"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1436,7 +1436,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1185.3511" y="724.77411" z="105.5371"/>
-      <rotation w="0.707110502091217" x="0" y="0" z="-0.707103060262298"/>
+      <rotation w="0.70711" x="0" y="0" z="-0.7071"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1451,7 +1451,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1185.3602" y="721.40527" z="105.5164"/>
-      <rotation w="0.70091111913422" x="0" y="0" z="-0.713248626408782"/>
+      <rotation w="0.70091" x="0" y="0" z="-0.71325"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1466,7 +1466,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1185.4313" y="718.15002" z="105.4582"/>
-      <rotation w="0.580705797506658" x="0" y="0" z="-0.81411349131565"/>
+      <rotation w="0.58071" x="0" y="0" z="-0.81411"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1481,7 +1481,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1186.5146" y="714.9425" z="105.4379"/>
-      <rotation w="0.587788076290942" x="0" y="0" z="-0.80901494261243"/>
+      <rotation w="0.58779" x="0" y="0" z="-0.80901"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1496,7 +1496,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1187.65" y="711.85938" z="105.4389"/>
-      <rotation w="0.544641962524257" x="0" y="0" z="-0.838668666791437"/>
+      <rotation w="0.54464" x="0" y="0" z="-0.83867"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1511,7 +1511,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1189.035" y="708.76709" z="105.419"/>
-      <rotation w="0.551941351520445" x="0" y="0" z="-0.833882932120441"/>
+      <rotation w="0.55194" x="0" y="0" z="-0.83388"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1526,7 +1526,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1190.5232" y="706.76141" z="105.4229"/>
-      <rotation w="0.207919373164635" x="0" y="0" z="-0.978145967769037"/>
+      <rotation w="0.20792" x="0" y="0" z="-0.97815"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1541,7 +1541,7 @@
       <archetypeName>p_benchch01x</archetypeName>
       <flags value="1572865"/>
       <position x="1193.6078" y="705.36798" z="105.4027"/>
-      <rotation w="0.207918434211816" x="0" y="0" z="-0.978146167356856"/>
+      <rotation w="0.20792" x="0" y="0" z="-0.97815"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1841,7 +1841,7 @@
       <archetypeName>p_nbdstreetlamp01x</archetypeName>
       <flags value="1572865"/>
       <position x="1195.6302" y="734.62653" z="104.7374"/>
-      <rotation w="0.250374934841815" x="0" y="0" z="0.968148951351473"/>
+      <rotation w="0.25037" x="0" y="0" z="0.96815"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1856,7 +1856,7 @@
       <archetypeName>p_jail02x</archetypeName>
       <flags value="1572865"/>
       <position x="1194.7296" y="732.88092" z="100.2166"/>
-      <rotation w="0.970295726275996" x="0" y="0" z="-0.241921895599668"/>
+      <rotation w="0.9703" x="0" y="0" z="-0.24192"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1871,7 +1871,7 @@
       <archetypeName>p_jail02x</archetypeName>
       <flags value="1572865"/>
       <position x="1197.7888" y="734.39618" z="100.221"/>
-      <rotation w="0.970295726275996" x="0" y="0" z="-0.241921895599668"/>
+      <rotation w="0.9703" x="0" y="0" z="-0.24192"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1886,7 +1886,7 @@
       <archetypeName>p_fencetall_04bx</archetypeName>
       <flags value="1572865"/>
       <position x="1190.4186" y="731.95288" z="99.915703"/>
-      <rotation w="0.848046718077004" x="0" y="0" z="0.529921469614907"/>
+      <rotation w="0.84805" x="0" y="0" z="0.52992"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -1901,7 +1901,7 @@
       <archetypeName>p_fencetall_04bx</archetypeName>
       <flags value="1572865"/>
       <position x="1200.1514" y="737.53082" z="100.9845"/>
-      <rotation w="0.861622521135277" x="0" y="0" z="0.507549634097483"/>
+      <rotation w="0.86162" x="0" y="0" z="0.50755"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -2021,7 +2021,7 @@
       <archetypeName>p_bonesskeleton04x</archetypeName>
       <flags value="1572865"/>
       <position x="1197.6449" y="735.59528" z="100.6419"/>
-      <rotation w="0.951056249323281" x="0" y="0" z="0.309017816028678"/>
+      <rotation w="0.95106" x="0" y="0" z="0.30902"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
@@ -2051,7 +2051,7 @@
       <archetypeName>p_boneshuman05x</archetypeName>
       <flags value="1572865"/>
       <position x="1198.2869" y="733.26282" z="100.4793"/>
-      <rotation w="0.972369718714998" x="0" y="0" z="0.233446203923123"/>
+      <rotation w="0.97237" x="0" y="0" z="0.23345"/>
       <scaleXY value="1"/>
       <scaleZ value="1"/>
       <parentIndex value="-1"/>
